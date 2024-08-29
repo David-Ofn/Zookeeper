@@ -1,0 +1,42 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Zookeeper with Java/*
+!/Zookeeper with Java/task/
+/Zookeeper with Java/task/*
+!/Zookeeper with Java/task/src
+
+# Project exclude paths
+/Topics/Array/Initializing an array of longs/out/
+/Topics/Array/Initializing an array of longs/out/production/classes/
+/Topics/Array/Sum of multiples of 3 in an array/out/
+/Topics/Array/Sum of multiples of 3 in an array/out/production/classes/
+/Topics/Calling methods/Call me awesome/out/
+/Topics/Calling methods/Call me awesome/out/production/classes/
+/Topics/Calling methods/Product and rounded average of two integers/out/
+/Topics/Calling methods/Product and rounded average of two integers/out/production/classes/
+/Topics/Floating-point types/Difference between two doubles/out/
+/Topics/Floating-point types/Difference between two doubles/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Exponential expression/out/
+/Topics/Floating-point types/Exponential expression/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/Text blocks/Mad SQL query/out/
+/Topics/Text blocks/Mad SQL query/out/production/classes/
+/Topics/Type casting/Converting and printing double values as integers/out/
+/Topics/Type casting/Converting and printing double values as integers/out/production/classes/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/production/classes/
